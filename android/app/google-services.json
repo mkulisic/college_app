@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "486533711640",
+    "firebase_url": "https://majorpicker-17e96.firebaseio.com",
+    "project_id": "majorpicker-17e96",
+    "storage_bucket": "majorpicker-17e96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486533711640:android:ccac54807f835b3334806d",
+        "android_client_info": {
+          "package_name": "com.example.college_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486533711640-5k144odbbk461m47u8pqmvnkkpr3bd08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLkHfynBsLFXCdmSWLwbxsvhuZ_KqPBB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486533711640-5k144odbbk461m47u8pqmvnkkpr3bd08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
